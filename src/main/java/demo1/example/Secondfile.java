@@ -1,6 +1,6 @@
 package com.example;
 
-public class SecondFile {
+public class Secondfile {
     public static void main(String[] args) {
         System.out.println("Hello from SecondFile!");
     }
